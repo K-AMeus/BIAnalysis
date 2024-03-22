@@ -4,4 +4,4 @@ This project contains scripts for analyzing and visualizing clinic data. The dat
 
 ## Technology Stack
 - **Data Processing:** Python (Pandas, NumPy)
-- **Visualization:** Matplotlib, Seaborn
+- **Visualization:** Matplotlib
